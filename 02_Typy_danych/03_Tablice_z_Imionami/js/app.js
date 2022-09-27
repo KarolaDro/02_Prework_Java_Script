@@ -6,11 +6,11 @@ console.log(users.length);
 
 
 const guests = [ ];
-guests[0] = "Chauncey";
-guests[1] = "Ling";
-guests[2] = "Ona";
-guests[3] = "Nicole";
-guests[4] = "Michaele";
+guests.push("Chauncey");
+guests.push("Ling");
+guests.push("Ona");
+guests.push("Nicole");
+guests.push("Michaele");
 
 console.log(guests[0]);
 console.log(guests[2]);
