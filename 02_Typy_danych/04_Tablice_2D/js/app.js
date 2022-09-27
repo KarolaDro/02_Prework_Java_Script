@@ -4,7 +4,7 @@ const numbers = [
     [9, 10, 11, 12]
 ];
 console.log(numbers[0] [1]);
-console.log(numbers[1] [1]);
+console.log(numbers[1]);
 console.log(numbers[2].length);
 
 const mixedValues = [
